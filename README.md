@@ -9,4 +9,7 @@ W. Avy likes the analysis, but he wants more information about temperature trend
 
 ## Result:
   - June:
-    As per the result from the analysis, 
+    
+    ![image](https://user-images.githubusercontent.com/108709071/187818419-5959205f-9f0e-4d6a-88e9-95ea5b76e4fc.png)
+    
+  - December
