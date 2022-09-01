@@ -17,4 +17,4 @@ W. Avy likes the analysis, but he wants more information about temperature trend
     ![image](https://user-images.githubusercontent.com/108709071/187818646-fbbc2f7d-05ac-466b-8fea-b5c81b9439b2.png)
 
 ## Summary
-As per results, average temperature of June is 75 with a minimun of 64 and maximum of 85 and average temperature of December is 71 with a minimum of 56 and maximum of 83. The temperature difference between June and December is small enough to be neglected. It's a good sign that the surf and ice cream shop business will be able to sustain all year round.
+As per results, average temperature of June is 75 with 64 minimum and85 maximum; Average temperature of December is 71 with 56 minimum and 83 maximum. The temperature difference between June and December is small enough to be neglected. It's a good sign that the surf and ice cream shop business will be able to sustain all year round.
